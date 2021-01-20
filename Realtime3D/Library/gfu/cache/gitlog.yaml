@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-01-19T20:48:36.185-06:00
+  initializedAtString: 2021-01-19T20:48:36.185-06:00
+  log:
+  - commitID: 0947ab493a426c557e4364af49c03e7b0f0151c7
+    mergeA: 
+    mergeB: 
+    authorName: Ngoc Pham
+    authorEmail: ngoc.pham.nm@gmail.com
+    commitEmail: ngoc.pham.nm@gmail.com
+    commitName: Ngoc Pham
+    summary: updated gitattributes
+    description: 
+    timeString: 2021-01-19T20:43:44.000-06:00
+    commitTimeString: 2021-01-19T20:43:44.000-06:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\Unity-essentials\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 0648f825aa7eb45ba5722d8002d5ad5afa306ef5
+    mergeA: 
+    mergeB: 
+    authorName: Ngoc Pham
+    authorEmail: ngoc.pham.nm@gmail.com
+    commitEmail: ngoc.pham.nm@gmail.com
+    commitName: Ngoc Pham
+    summary: create testfile2
+    description: 
+    timeString: 2021-01-19T20:22:15.000-06:00
+    commitTimeString: 2021-01-19T20:22:15.000-06:00
+    changes:
+    - path: testingfile2.txt
+      fullPath: D:\Unity-essentials\testingfile2.txt
+      projectPath: ..\testingfile2.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 5e59b0c003fabd54effe5600477c95c5237df90b
+    mergeA: 
+    mergeB: 
+    authorName: Ngoc Pham
+    authorEmail: ngoc.pham.nm@gmail.com
+    commitEmail: ngoc.pham.nm@gmail.com
+    commitName: Ngoc Pham
+    summary: Create testingfile.txt
+    description: 
+    timeString: 2021-01-19T20:19:52.000-06:00
+    commitTimeString: 2021-01-19T20:19:52.000-06:00
+    changes:
+    - path: testingfile.txt
+      fullPath: D:\Unity-essentials\testingfile.txt
+      projectPath: ..\testingfile.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 019db1bce117f9c050c0dbba4475122c981fe115
+    mergeA: 
+    mergeB: 
+    authorName: Ngoc Pham
+    authorEmail: 61129869+ngocpham1994x@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-01-19T20:04:07.000-06:00
+    commitTimeString: 2021-01-19T20:04:07.000-06:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\Unity-essentials\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: D:\Unity-essentials\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
